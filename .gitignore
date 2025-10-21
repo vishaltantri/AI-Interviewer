@@ -1,0 +1,50 @@
+# Virtual Environment (Don't upload 2-3GB!)
+ai-coach-env/
+venv/
+ENV/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+
+# Model Cache (Don't upload 5GB!)
+.cache/
+.local/share/tts/
+models/
+*.bin
+
+# Runtime Files (Generated during use)
+input.txt
+chat_output.txt
+*.log
+
+# Generated Audio
+*.wav
+*.mp3
+coqui_output_fast.wav
+
+# Compiled CSS (Generated from input.css)
+static/output.css
+
+# Node modules (if used)
+node_modules/
+
+# API Keys (Security!)
+.env
+.env.local
+*.key
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Gradio
+gradio_cached_examples/
+flagged/
