@@ -206,8 +206,8 @@ text
 ## 📧 Contact
 
 **VISHAL C TANTRI**  
-GitHub: [@YOUR_USERNAME](https://github.com/vishaltantri)  
-Project Link: [https://github.com/YOUR_USERNAME/ai-interviewer](https://github.com/vishaltantri/AI-Interviewer/)
+GitHub: [@vishaltantri](https://github.com/vishaltantri)  
+Project Link: [https://github.com/vishaltantri/AI-Interviewer/](https://github.com/vishaltantri/AI-Interviewer/)
 
 ---
 
