@@ -25,5 +25,9 @@
 - Linux (Fedora/Ubuntu)
 - Google Gemini API Key ([Get free here](https://ai.google.dev/))
 
-### Installation
+### App Demo
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/33ade9ab-3b26-471c-ba4a-11d2fa580445" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/75b8bfd2-214a-4294-b9ec-c8b761a89d23" />
+
+
 
